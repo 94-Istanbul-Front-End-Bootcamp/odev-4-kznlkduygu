@@ -1,5 +1,5 @@
 
-***Yorum Yap***
+                      ***Yorum Yap***
 
 ![odev4-1](https://user-images.githubusercontent.com/48677712/125127254-eb602e80-e104-11eb-99b2-ca37541aba5b.PNG)
 
